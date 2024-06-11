@@ -11,7 +11,7 @@
 
 body {
   min-height: 100dvh;
-  background: #232323;
+  background: var(--black-color);
 }
 
 input,
@@ -52,4 +52,25 @@ svg {
     scroll-behavior: auto !important;
     transition: none;
   }
+}
+
+:root {
+  --black-color: #232323;
+  --white-color: #FBF8F3;
+  --green-primary: #274547;
+  --green-secondary: #00C897;
+}
+
+.navbar {
+  display: inline-flex;
+  height: 100vh;
+  padding: 30px 10px 10px 10px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  flex-shrink: 0;
+  background-color: aquamarine;
+  background: #232323;
+  box-shadow: 5px 0px 4px 0px rgba(0, 0, 0, 0.25);
+  color: var(--white-color);
 }
