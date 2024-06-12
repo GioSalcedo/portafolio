@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -14,6 +16,8 @@ body {
   background: var(--black-color);
   display: flex;
   color: var(--white-color);
+  overflow: hidden;
+  font-family: "Dosis", sans-serif;
 }
 
 input,
@@ -58,9 +62,9 @@ svg {
 
 :root {
   --black-color: #232323;
-  --white-color: #FBF8F3;
+  --white-color: #fbf8f3;
   --green-primary: #274547;
-  --green-secondary: #00C897;
+  --green-secondary: #00c897;
 }
 
 .navbar {
@@ -75,18 +79,20 @@ svg {
   color: var(--white-color);
   justify-content: space-between;
   width: 80px;
+  z-index: 1;
 }
 
-.navbar div{
+.navbar div {
   text-align: center;
   width: 100%;
 }
 
-.navbar p{
+.navbar p {
   font-size: 0.88rem;
 }
 
-nav .top-nav, .button-nav {
+nav .top-nav,
+.button-nav {
   display: flex;
   flex-direction: column;
   gap: 20px;
@@ -94,4 +100,16 @@ nav .top-nav, .button-nav {
 
 main {
   padding: 30px;
+}
+
+main div {
+  width: 1200px;
+  height: 1200px;
+  position: fixed; /* Fijo para que se mantenga en la posición relativa al viewport */
+  top: -300px; /* Ajusta según sea necesario para colocar el div correctamente */
+  right: -300px; /* Ajusta según sea necesario para colocar el div correctamente */
+  transform: rotate(22.462deg);
+  background: #274547;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.5);
+  z-index: -1; /* Asegura que esté detrás de todo */
 }
