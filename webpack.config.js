@@ -26,11 +26,12 @@ module.exports = {
         loader: "html-loader",
       },
       {
-        test: /\.(png|jpe?g|gif|svg)$/i,
+        test: /\.(png|jpe?g|gif|svg|ico)$/i,
         use: [
           {
             loader: 'file-loader',
             options: {
+              name: 'icon-portafolio.ico',
               name: 'profile.jpg',
             },
           },
