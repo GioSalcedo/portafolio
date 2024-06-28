@@ -16,7 +16,7 @@
   \****************************************************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n// Imports\n\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\n___CSS_LOADER_EXPORT___.push([module.id, \"@import url(https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap);\"]);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, `* {\n  margin: 0;\n  padding: 0; }\n\n*,\n*::before,\n*::after {\n  box-sizing: border-box; }\n\nbody {\n  min-height: 100vh;\n  background: #232323;\n  display: flex;\n  color: #fbf8f3;\n  overflow: hidden;\n  font-family: \"Dosis\", sans-serif; }\n\ninput,\nbutton,\ntextarea,\nselect {\n  font: inherit; }\n\np {\n  text-wrap: pretty; }\n\nh1,\nh2,\nh3,\nh4,\nh5,\nh6 {\n  height: auto;\n  max-width: 100%; }\n\nimg,\nvideo,\nsvg {\n  height: auto;\n  max-width: 100%; }\n\n@media (prefers-reduced-motion: reduce) {\n  *,\n  *::before,\n  *::after {\n    animation-duration: 0.01ms !important;\n    animation-iteration-count: 1 !important;\n    transition-duration: 0.01ms !important;\n    scroll-behavior: auto !important;\n    transition: none; } }\n\n@media (min-width: 1200px) {\n  .root {\n    width: 100%;\n    height: 100%; }\n  .navbar {\n    display: inline-flex;\n    height: 100vh;\n    padding: 30px 10px 10px 10px;\n    flex-direction: column;\n    align-items: flex-start;\n    flex-shrink: 0;\n    background: #232323;\n    box-shadow: 5px 0px 4px 0px rgba(0, 0, 0, 0.25);\n    color: #fbf8f3;\n    justify-content: space-between;\n    width: 100px;\n    z-index: 1; }\n  .navbar div {\n    text-align: center;\n    width: 100%; }\n  .navbar svg {\n    width: 40px;\n    height: 40px; }\n  .navbar a {\n    font-size: 1rem;\n    text-decoration: none;\n    color: #fbf8f3; }\n  nav .top-nav,\n  .button-nav {\n    display: flex;\n    flex-direction: column;\n    gap: 20px; }\n  main {\n    width: 100%; }\n  .background-rectangle {\n    width: 1200px;\n    height: 1200px;\n    position: fixed;\n    top: -300px;\n    right: -300px;\n    transform: rotate(22.462deg);\n    background: #274547;\n    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.5);\n    z-index: -1; }\n  main span {\n    color: #00c897;\n    font-size: 6rem; }\n  .info-container {\n    display: flex;\n    padding: 50px;\n    justify-content: space-between;\n    width: 100%;\n    height: 100vh;\n    gap: 30px;\n    align-items: center; }\n  .info-container img {\n    height: 700px;\n    width: 650px;\n    border-radius: 50%;\n    border: 3px solid #00c897; }\n  .info-container h1 {\n    font-size: 5.8rem; }\n  .info-container h2 {\n    font-size: 4rem; }\n  .info-container h3 {\n    font-size: 3rem;\n    color: #00c897; }\n  .info-container p {\n    font-size: 1.5rem;\n    text-align: left; }\n  .top-info-container {\n    display: flex;\n    flex-direction: column;\n    justify-content: space-around;\n    height: 100%;\n    width: 700px; }\n  .stack ul {\n    display: flex;\n    gap: 10px;\n    text-decoration: none;\n    list-style: none;\n    font-size: 1.2rem;\n    flex-wrap: wrap; }\n  .stack li {\n    display: inline-flex;\n    padding: 10px 20px;\n    justify-content: center;\n    align-items: center;\n    gap: 20px;\n    border-radius: 20px;\n    background: #274547;\n    color: #fbf8f3;\n    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.5); } }\n\n/* // XX-Large devices (larger desktops, 1400px and up)\n@media (min-width: 1400px) { ... } */\n`, \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://portafolio/./src/main.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n// Imports\n\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\n___CSS_LOADER_EXPORT___.push([module.id, \"@import url(https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap);\"]);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, `* {\n  margin: 0;\n  padding: 0; }\n\n*,\n*::before,\n*::after {\n  box-sizing: border-box; }\n\nbody {\n  min-height: 100vh;\n  background: #232323;\n  display: flex;\n  color: #fbf8f3;\n  overflow: hidden;\n  font-family: \"Dosis\", sans-serif; }\n\ninput,\nbutton,\ntextarea,\nselect {\n  font: inherit; }\n\np {\n  text-wrap: pretty; }\n\nh1,\nh2,\nh3,\nh4,\nh5,\nh6 {\n  height: auto;\n  max-width: 100%; }\n\nimg,\nvideo,\nsvg {\n  height: auto;\n  max-width: 100%; }\n\n@media (prefers-reduced-motion: reduce) {\n  *,\n  *::before,\n  *::after {\n    animation-duration: 0.01ms !important;\n    animation-iteration-count: 1 !important;\n    transition-duration: 0.01ms !important;\n    scroll-behavior: auto !important;\n    transition: none; } }\n\n@media (min-width: 1200px) {\n  .root {\n    width: 100%;\n    height: 100%; }\n  .navbar {\n    display: inline-flex;\n    height: 100vh;\n    padding: 30px 10px 10px 10px;\n    flex-direction: column;\n    align-items: flex-start;\n    flex-shrink: 0;\n    background: #232323;\n    box-shadow: 5px 0px 4px 0px rgba(0, 0, 0, 0.25);\n    color: #fbf8f3;\n    justify-content: space-between;\n    width: 100px;\n    z-index: 1; }\n  .navbar div {\n    text-align: center;\n    width: 100%; }\n  .navbar svg {\n    width: 40px;\n    height: 40px; }\n  .navbar a {\n    font-size: 1rem;\n    text-decoration: none;\n    color: #fbf8f3; }\n  nav .top-nav,\n  .button-nav {\n    display: flex;\n    flex-direction: column;\n    gap: 20px; }\n  main {\n    width: 100%; }\n  .background-rectangle {\n    width: 1200px;\n    height: 1200px;\n    position: fixed;\n    top: -300px;\n    right: -300px;\n    transform: rotate(22.462deg);\n    background: #274547;\n    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.5);\n    z-index: -1; }\n  main span {\n    color: #00c897;\n    font-size: 6rem; }\n  .info-container {\n    display: flex;\n    padding: 50px;\n    justify-content: space-between;\n    width: 100%;\n    height: 100vh;\n    gap: 30px;\n    align-items: center; }\n  .info-container img {\n    height: 700px;\n    width: 650px;\n    border-radius: 50%;\n    border: 3px solid #00c897; }\n  .info-container h1 {\n    font-size: 5.8rem; }\n  .info-container h2 {\n    font-size: 4rem; }\n  .info-container h3 {\n    font-size: 3rem;\n    color: #00c897; }\n  .info-container p {\n    font-size: 1.5rem;\n    text-align: left; }\n  .top-info-container {\n    display: flex;\n    flex-direction: column;\n    justify-content: space-around;\n    height: 100%;\n    width: 700px; }\n  .stack ul {\n    display: flex;\n    gap: 10px;\n    text-decoration: none;\n    list-style: none;\n    font-size: 1.2rem;\n    flex-wrap: wrap; }\n  .stack li {\n    display: inline-flex;\n    padding: 10px 20px;\n    justify-content: center;\n    align-items: center;\n    gap: 20px;\n    border-radius: 20px;\n    background: #274547;\n    color: #fbf8f3;\n    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.5); } }\n\n/* // XX-Large devices (larger desktops, 1400px and up)\r\n@media (min-width: 1400px) { ... } */\n`, \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://portafolio/./src/main.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js");
 
 /***/ }),
 
@@ -40,33 +40,13 @@ eval("\n\nmodule.exports = function (i) {\n  return i[1];\n};\n\n//# sourceURL=w
 
 /***/ }),
 
-/***/ "./src/images/icon-portafolio.ico":
-/*!****************************************!*\
-  !*** ./src/images/icon-portafolio.ico ***!
-  \****************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"e318b35fb52cb4136ecfd64139bc3d4f.ico\");\n\n//# sourceURL=webpack://portafolio/./src/images/icon-portafolio.ico?");
-
-/***/ }),
-
 /***/ "./src/views/acerca-de-mi.html":
 /*!*************************************!*\
   !*** ./src/views/acerca-de-mi.html ***!
   \*************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../node_modules/html-loader/dist/runtime/getUrl.js */ \"./node_modules/html-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0__);\n// Imports\n\nvar ___HTML_LOADER_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! ../images/profile.jpg */ \"./src/images/profile.jpg\"), __webpack_require__.b);\n// Module\nvar ___HTML_LOADER_REPLACEMENT_0___ = _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default()(___HTML_LOADER_IMPORT_0___);\nvar code = \"<section class=\\\"info-container\\\">\\n  <div class=\\\"top-info-container\\\">\\n    <div class=\\\"about-of-me\\\">\\n      <h1>¡Hola! Yo Soy <span>Gio</span></h1>\\n      <h2>Desarrollador Fullstack</h2>\\n    </div>\\n    <div>\\n      <h3>Sobre Mi</h3>\\n      <p>\\n        Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil facilis\\n        eligendi, veritatis ab possimus vel quis laboriosam tempore repudiandae\\n        sequi ipsa! Iure explicabo placeat modi at ratione odit sunt velit ab,\\n        eius ipsa possimus omnis accusamus enim nemo ea voluptate asperiores\\n        totam exercitationem mollitia tempora aperiam aliquid. Tempore, esse?\\n      </p>\\n    </div>\\n    <div class=\\\"stack\\\">\\n      <h3>Stack</h3>\\n      <ul>\\n        <li>Ruby</li>\\n        <li>Ruby on Rails</li>\\n        <li>JavaScript</li>\\n        <li>Java</li>\\n        <li>Sprint Boot</li>\\n        <li>Slim</li>\\n        <li>HTML5</li>\\n        <li>CSS3</li>\\n        <li>SASS</li>\\n        <li>Bootstrap</li>\\n        <li>Git</li>\\n        <li>Tailwind</li>\\n        <li>Hotwire</li>\\n        <li>Stimulus</li>\\n        <li>StimulusReflex</li>\\n        <li>Node.js</li>\\n        <li>Express.js</li>\\n        <li>MongoDB</li>\\n        <li>PostgreSQL</li>\\n      </ul>\\n    </div>\\n  </div>\\n  <img src=\\\"\" + ___HTML_LOADER_REPLACEMENT_0___ + \"\\\" alt=\\\"Profile Picture\\\">\\n</section>\\n\";\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (code);\n\n//# sourceURL=webpack://portafolio/./src/views/acerca-de-mi.html?");
-
-/***/ }),
-
-/***/ "./node_modules/html-loader/dist/runtime/getUrl.js":
-/*!*********************************************************!*\
-  !*** ./node_modules/html-loader/dist/runtime/getUrl.js ***!
-  \*********************************************************/
-/***/ ((module) => {
-
-eval("\n\nmodule.exports = function (url, options) {\n  if (!options) {\n    // eslint-disable-next-line no-param-reassign\n    options = {};\n  }\n  if (!url) {\n    return url;\n  }\n\n  // eslint-disable-next-line no-underscore-dangle, no-param-reassign\n  url = String(url.__esModule ? url.default : url);\n  if (options.hash) {\n    // eslint-disable-next-line no-param-reassign\n    url += options.hash;\n  }\n  if (options.maybeNeedQuotes && /[\\t\\n\\f\\r \"'=<>`]/.test(url)) {\n    return \"\\\"\".concat(url, \"\\\"\");\n  }\n  return url;\n};\n\n//# sourceURL=webpack://portafolio/./node_modules/html-loader/dist/runtime/getUrl.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n// Module\nvar code = \"<section class=\\\"info-container\\\">\\r\\n  <div class=\\\"top-info-container\\\">\\r\\n    <div class=\\\"about-of-me\\\">\\r\\n      <h1>¡Hola! Yo Soy <span>Gio</span></h1>\\r\\n      <h2>Desarrollador Fullstack</h2>\\r\\n    </div>\\r\\n    <div>\\r\\n      <h3>Sobre Mi</h3>\\r\\n      <p>\\r\\n        Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil facilis\\r\\n        eligendi, veritatis ab possimus vel quis laboriosam tempore repudiandae\\r\\n        sequi ipsa! Iure explicabo placeat modi at ratione odit sunt velit ab,\\r\\n        eius ipsa possimus omnis accusamus enim nemo ea voluptate asperiores\\r\\n        totam exercitationem mollitia tempora aperiam aliquid. Tempore, esse?\\r\\n      </p>\\r\\n    </div>\\r\\n    <div class=\\\"stack\\\">\\r\\n      <h3>Stack</h3>\\r\\n      <ul>\\r\\n        <li>Ruby</li>\\r\\n        <li>Ruby on Rails</li>\\r\\n        <li>JavaScript</li>\\r\\n        <li>Java</li>\\r\\n        <li>Sprint Boot</li>\\r\\n        <li>Slim</li>\\r\\n        <li>HTML5</li>\\r\\n        <li>CSS3</li>\\r\\n        <li>SASS</li>\\r\\n        <li>Bootstrap</li>\\r\\n        <li>Git</li>\\r\\n        <li>Tailwind</li>\\r\\n        <li>Hotwire</li>\\r\\n        <li>Stimulus</li>\\r\\n        <li>StimulusReflex</li>\\r\\n        <li>Node.js</li>\\r\\n        <li>Express.js</li>\\r\\n        <li>MongoDB</li>\\r\\n        <li>PostgreSQL</li>\\r\\n      </ul>\\r\\n    </div>\\r\\n  </div>\\r\\n  <img src=\\\"https://lumiere-a.akamaihd.net/v1/images/3_avtr-460_2647266a.jpeg?region=363,1,1083,1079\\\" alt=\\\"Foto de perfil\\\" />\\r\\n</section>\\r\\n\";\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (code);\n\n//# sourceURL=webpack://portafolio/./src/views/acerca-de-mi.html?");
 
 /***/ }),
 
@@ -146,7 +126,7 @@ eval("\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, styleElem
   \****************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _views_acerca_de_mi_html__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../views/acerca-de-mi.html */ \"./src/views/acerca-de-mi.html\");\n\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (() => {\n  const divElement = document.createElement(\"div\")\n  divElement.innerHTML = _views_acerca_de_mi_html__WEBPACK_IMPORTED_MODULE_0__[\"default\"];\n\n  return divElement;\n});\n\n//# sourceURL=webpack://portafolio/./src/controllers/acerca-de-mi.controller.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _views_acerca_de_mi_html__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../views/acerca-de-mi.html */ \"./src/views/acerca-de-mi.html\");\n\r\n\r\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (() => {\r\n  const divElement = document.createElement(\"div\")\r\n  divElement.innerHTML = _views_acerca_de_mi_html__WEBPACK_IMPORTED_MODULE_0__[\"default\"];\r\n\r\n  return divElement;\r\n});\n\n//# sourceURL=webpack://portafolio/./src/controllers/acerca-de-mi.controller.js?");
 
 /***/ }),
 
@@ -156,7 +136,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (() => {\n  const views = `\n    <h1>Hola</h1>\n  `;\n  \n  const divElement = document.createElement(\"div\")\n  divElement.innerHTML = views;\n\n  return divElement;\n});\n\n//# sourceURL=webpack://portafolio/./src/controllers/contact.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (() => {\r\n  const views = `\r\n    <h1>Hola</h1>\r\n  `;\r\n  \r\n  const divElement = document.createElement(\"div\")\r\n  divElement.innerHTML = views;\r\n\r\n  return divElement;\r\n});\n\n//# sourceURL=webpack://portafolio/./src/controllers/contact.js?");
 
 /***/ }),
 
@@ -166,7 +146,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \*********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _router_routes__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./router/routes */ \"./src/router/routes.js\");\n/* harmony import */ var _main_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./main.scss */ \"./src/main.scss\");\n/* harmony import */ var _images_icon_portafolio_ico__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./images/icon-portafolio.ico */ \"./src/images/icon-portafolio.ico\");\n\n\n\n\nwindow.addEventListener(\"hashchange\", () => {\n  (0,_router_routes__WEBPACK_IMPORTED_MODULE_0__.router)(window.location.hash);\n})\n\n//# sourceURL=webpack://portafolio/./src/main.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _main_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./main.scss */ \"./src/main.scss\");\n/* harmony import */ var _router_routes__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./router/routes */ \"./src/router/routes.js\");\n\r\n\r\n\r\n\r\nwindow.addEventListener(\"hashchange\", () => {\r\n  (0,_router_routes__WEBPACK_IMPORTED_MODULE_1__.router)(window.location.hash);\r\n})\n\n//# sourceURL=webpack://portafolio/./src/main.js?");
 
 /***/ }),
 
@@ -176,17 +156,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _rou
   \******************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   router: () => (/* binding */ router)\n/* harmony export */ });\n/* harmony import */ var _controllers_contact__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../controllers/contact */ \"./src/controllers/contact.js\");\n/* harmony import */ var _controllers_acerca_de_mi_controller__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../controllers/acerca-de-mi.controller */ \"./src/controllers/acerca-de-mi.controller.js\");\n\n\nconst content = document.getElementById(\"root\");\n\n\nconst router = (route) => {\n  content.innerHTML = \" \";\n  switch (route) {\n    case \"#/acerca-de-mi\": {\n      return content.appendChild((0,_controllers_acerca_de_mi_controller__WEBPACK_IMPORTED_MODULE_1__[\"default\"])());\n    }\n    case \"#/proyectos\":\n      return console.log(\"Proyectos\");\n    case \"#/experiencias\":\n      return console.log(\"Experiencias\");\n    case \"#/educacion\":\n      return console.log(\"Educación\");\n    case \"#/contacto\": {\n      return content.appendChild((0,_controllers_contact__WEBPACK_IMPORTED_MODULE_0__[\"default\"])());\n    }\n    default:\n      return console.log(\"404\")\n  }\n}\n\n\n\n//# sourceURL=webpack://portafolio/./src/router/routes.js?");
-
-/***/ }),
-
-/***/ "./src/images/profile.jpg":
-/*!********************************!*\
-  !*** ./src/images/profile.jpg ***!
-  \********************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"e90615f1f6ee9502ba68.jpg\";\n\n//# sourceURL=webpack://portafolio/./src/images/profile.jpg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   router: () => (/* binding */ router)\n/* harmony export */ });\n/* harmony import */ var _controllers_contact__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../controllers/contact */ \"./src/controllers/contact.js\");\n/* harmony import */ var _controllers_acerca_de_mi_controller__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../controllers/acerca-de-mi.controller */ \"./src/controllers/acerca-de-mi.controller.js\");\n\r\n\r\nconst content = document.getElementById(\"root\");\r\n\r\n\r\nconst router = (route) => {\r\n  content.innerHTML = \" \";\r\n  switch (route) {\r\n    case \"#/acerca-de-mi\": {\r\n      return content.appendChild((0,_controllers_acerca_de_mi_controller__WEBPACK_IMPORTED_MODULE_1__[\"default\"])());\r\n    }\r\n    case \"#/proyectos\":\r\n      return console.log(\"Proyectos\");\r\n    case \"#/experiencias\":\r\n      return console.log(\"Experiencias\");\r\n    case \"#/educacion\":\r\n      return console.log(\"Educación\");\r\n    case \"#/contacto\": {\r\n      return content.appendChild((0,_controllers_contact__WEBPACK_IMPORTED_MODULE_0__[\"default\"])());\r\n    }\r\n    default:\r\n      return console.log(\"404\")\r\n  }\r\n}\r\n\r\n\n\n//# sourceURL=webpack://portafolio/./src/router/routes.js?");
 
 /***/ })
 
@@ -216,9 +186,6 @@ eval("module.exports = __webpack_require__.p + \"e90615f1f6ee9502ba68.jpg\";\n\n
 /******/ 		return module.exports;
 /******/ 	}
 /******/ 	
-/******/ 	// expose the modules object (__webpack_modules__)
-/******/ 	__webpack_require__.m = __webpack_modules__;
-/******/ 	
 /************************************************************************/
 /******/ 	/* webpack/runtime/compat get default export */
 /******/ 	(() => {
@@ -244,18 +211,6 @@ eval("module.exports = __webpack_require__.p + \"e90615f1f6ee9502ba68.jpg\";\n\n
 /******/ 		};
 /******/ 	})();
 /******/ 	
-/******/ 	/* webpack/runtime/global */
-/******/ 	(() => {
-/******/ 		__webpack_require__.g = (function() {
-/******/ 			if (typeof globalThis === 'object') return globalThis;
-/******/ 			try {
-/******/ 				return this || new Function('return this')();
-/******/ 			} catch (e) {
-/******/ 				if (typeof window === 'object') return window;
-/******/ 			}
-/******/ 		})();
-/******/ 	})();
-/******/ 	
 /******/ 	/* webpack/runtime/hasOwnProperty shorthand */
 /******/ 	(() => {
 /******/ 		__webpack_require__.o = (obj, prop) => (Object.prototype.hasOwnProperty.call(obj, prop))
@@ -270,55 +225,6 @@ eval("module.exports = __webpack_require__.p + \"e90615f1f6ee9502ba68.jpg\";\n\n
 /******/ 			}
 /******/ 			Object.defineProperty(exports, '__esModule', { value: true });
 /******/ 		};
-/******/ 	})();
-/******/ 	
-/******/ 	/* webpack/runtime/publicPath */
-/******/ 	(() => {
-/******/ 		var scriptUrl;
-/******/ 		if (__webpack_require__.g.importScripts) scriptUrl = __webpack_require__.g.location + "";
-/******/ 		var document = __webpack_require__.g.document;
-/******/ 		if (!scriptUrl && document) {
-/******/ 			if (document.currentScript)
-/******/ 				scriptUrl = document.currentScript.src;
-/******/ 			if (!scriptUrl) {
-/******/ 				var scripts = document.getElementsByTagName("script");
-/******/ 				if(scripts.length) {
-/******/ 					var i = scripts.length - 1;
-/******/ 					while (i > -1 && (!scriptUrl || !/^http(s?):/.test(scriptUrl))) scriptUrl = scripts[i--].src;
-/******/ 				}
-/******/ 			}
-/******/ 		}
-/******/ 		// When supporting browsers where an automatic publicPath is not supported you must specify an output.publicPath manually via configuration
-/******/ 		// or pass an empty string ("") and set the __webpack_public_path__ variable from your code to use your own logic.
-/******/ 		if (!scriptUrl) throw new Error("Automatic publicPath is not supported in this browser");
-/******/ 		scriptUrl = scriptUrl.replace(/#.*$/, "").replace(/\?.*$/, "").replace(/\/[^\/]+$/, "/");
-/******/ 		__webpack_require__.p = scriptUrl;
-/******/ 	})();
-/******/ 	
-/******/ 	/* webpack/runtime/jsonp chunk loading */
-/******/ 	(() => {
-/******/ 		__webpack_require__.b = document.baseURI || self.location.href;
-/******/ 		
-/******/ 		// object to store loaded and loading chunks
-/******/ 		// undefined = chunk not loaded, null = chunk preloaded/prefetched
-/******/ 		// [resolve, reject, Promise] = chunk loading, 0 = chunk loaded
-/******/ 		var installedChunks = {
-/******/ 			"main": 0
-/******/ 		};
-/******/ 		
-/******/ 		// no chunk on demand loading
-/******/ 		
-/******/ 		// no prefetching
-/******/ 		
-/******/ 		// no preloaded
-/******/ 		
-/******/ 		// no HMR
-/******/ 		
-/******/ 		// no HMR manifest
-/******/ 		
-/******/ 		// no on chunks loaded
-/******/ 		
-/******/ 		// no jsonp function
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/nonce */
