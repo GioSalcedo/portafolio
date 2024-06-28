@@ -1,10 +1,11 @@
 const HtmlWebpackPlugin = require("html-webpack-plugin");
+const path = require('path');
 
 module.exports = {
   mode: 'development',
   entry: "./src/main.js",
   output: {
-    path: __dirname + "/dist",
+    path: path.resolve(__dirname, "dist"),
     filename: "bundle.js"
   },
   module: {
@@ -26,14 +27,10 @@ module.exports = {
         loader: "html-loader",
       },
       {
-        test: /\.(png|jpe?g|gif|svg|ico)$/i,
+        test: /\.(png|jpg|gif|svg|ico)$/i,
         use: [
           {
             loader: 'file-loader',
-            options: {
-              name: 'icon-portafolio.ico',
-              name: 'profile.jpg',
-            },
           },
         ],
       },
