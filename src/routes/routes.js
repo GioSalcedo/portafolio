@@ -17,9 +17,8 @@ const router = (route) => {
       return content.appendChild(experience());
     case "#/educacion":
       return content.appendChild(education());
-    case "#/contacto": {
+    case "#/contacto":
       return content.appendChild(contact());
-    }
     default:
       return console.log("404")
   }
