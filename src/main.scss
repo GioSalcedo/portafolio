@@ -193,6 +193,12 @@ svg {
     color: $white-color;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.5);
   }
+
+  .stack li:hover{
+    background: $green-secondary;
+    color: $black-color;
+    transform: scale(1.1);
+  }
 }
 
 /* // XX-Large devices (larger desktops, 1400px and up)
