@@ -23,3 +23,4 @@ Instala las dependencias:
 Para empezar a desarollar en tu propio servidor local, usa:
 
     npx webpack-dev-server
+uso
